@@ -1,0 +1,24 @@
+                                                List of databases
+      Name       |  Owner   | Encoding |        Collate         |         Ctype          |   Access privileges   
+-----------------+----------+----------+------------------------+------------------------+-----------------------
+ knowledge       | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ knowledge_final | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ postgres        | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ template0       | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | =c/postgres          +
+                 |          |          |                        |                        | postgres=CTc/postgres
+ template1       | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | =c/postgres          +
+                 |          |          |                        |                        | postgres=CTc/postgres
+(5 rows)
+
+                                                List of databases
+      Name       |  Owner   | Encoding |        Collate         |         Ctype          |   Access privileges   
+-----------------+----------+----------+------------------------+------------------------+-----------------------
+ knowledge       | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ knowledge_final | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ postgres        | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ template0       | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | =c/postgres          +
+                 |          |          |                        |                        | postgres=CTc/postgres
+ template1       | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | =c/postgres          +
+                 |          |          |                        |                        | postgres=CTc/postgres
+(5 rows)
+
